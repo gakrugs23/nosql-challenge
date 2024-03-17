@@ -31,14 +31,5 @@ Part 3:
 
   There are 55 rows in the DataFrame. This is the preview of the first 10 rows:
 
-_id	count
-Thanet	1130
-Greenwich	882
-Maidstone	713
-Newham	711
-Swale	686
-Chelmsford	680
-Medway	672
-Bexley	607
-Southend-On-Sea	586
-Tendring	542
+![image](https://github.com/gakrugs23/nosql-challenge/assets/151480655/db0874e3-b73e-4f6a-b516-f7b4ddbd75fb)
+
